@@ -1,0 +1,5 @@
+?:  is for non capturing group
+?=  is for positive look ahead
+?!  is for negative look ahead
+?<= is for positive look behind
+?<! is for negative look behind
