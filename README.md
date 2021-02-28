@@ -15,6 +15,7 @@ This course should be taken before any of the other Applied Data Science with Py
 # Repository go through:
 1. There are in total 5 directories in this repository.
 2. 4 of these directories contains tutorials for each week individually.
-3. 5 directory named [Assignments](https://github.com/ahmadabdullah407/Introduction-to-Data-Science-in-Python/tree/main/Assignments) contains solution for assignments in this course.
+3. Directory named [Assignments](https://github.com/ahmadabdullah407/Introduction-to-Data-Science-in-Python/tree/main/Assignments) contains solution for assignments in this course.
 4. Each directory further has sub directories which contains almost all the necessary files required or referred in Ipython notebook files tutorials and assignments.
 5. Not all tutorials are Ipython notebooks some are in html format too.
+  
